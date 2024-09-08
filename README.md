@@ -27,14 +27,20 @@ The second was that another group of people fled as far as they could from this 
 
 Later research, mainly by prof Samuel Rubenson, has found that these church fathers were highly organised and that they continued a tradition from mainly the greek academic world. In this process all these various, short 'sentences' or 'sayings' was used to establish the more hierachial church movement, described above. And the other way around, the more hierarchial church affected the desert fathers initiating the monastic movement, building monasteries which over time became one of the main structurs in medieval Europe follwing the fall of Rome.
 
-## Take away
+## Hierachial and network way of organising things
 So, take away from this is that there are always two main characteristics of any movement, enterprise, business, organisation, team. One is in hierachial structure and one is network form. They both need each other. However, from innovation, software, digital product development perspective, the network form is better suited and shall have more emphasis than a more hierachial form. This is due to the complex nature of digital solutions and which need an explorative, discovery way of working. One of the most obvious manifestations is between waterfall type of organisations, and agile.
 
 Therefore, this work is called _Digital Product Development Patterns_ and is in the form of Apophthegmatas, short descriptions but also possible to put together in larger forms, or use as is in different frameworks, processes. 
 
+## So how is the Apophthegmata form used in this work and context
+The Apophthegmata worked in this way. The established church had their hierachy, different organisational textual descriptions of what people should do and how they should think. This was, as with any large framework, naturally hard to learn and needed a lot of governing, inspection, review mechanisms.
+The Apophthegmatas worked the other way around. Short, to thepoint, textual sentences, illustrative, storytelling format reminded, sparked questions and reflections and helped people through creating gravity, urgency, an experienced need. 
+
+Therefore this work adheres to the way of these Apophthegmatas instead of the hierachical, more typical framework way.  
+
 # Another description
 This is not a frameowrk more patterns.
-There is aneed for somethning describin Medici perspeict with architecture, design, agile and sydev.
+There is aneed for somethning describing Medici perspeict with architecture, design, agile and sydev.
 Building in contrast to to hierachial/structure on a more network thikning, loose, and cohjesive.
 
 Draw upon very early school/university ideas emanating from chrush fathers/desert fathers with the APO's etc.
