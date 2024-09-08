@@ -31,5 +31,14 @@ Later research, mainly by prof Samuel Rubenson, has found that these church fath
 So, take away from this is that there are always two main characteristics of any movement, enterprise, business, organisation, team. One is in hierachial structure and one is network form. They both need each other. However, from innovation, software, digital product development perspective, the network form is better suited and shall have more emphasis than a more hierachial form. This is due to the complex nature of digital solutions and which need an explorative, discovery way of working. One of the most obvious manifestations is between waterfall type of organisations, and agile.
 
 Therefore, this work is called _Digital Product Development Patterns_ and is in the form of Apophthegmatas, short descriptions but also possible to put together in larger forms, or use as is in different frameworks, processes. 
+
+# Another description
+This is not a frameowrk more patterns.
+There is aneed for somethning describin Medici perspeict with architecture, design, agile and sydev.
+Building in contrast to to hierachial/structure on a more network thikning, loose, and cohjesive.
+
+Draw upon very early school/university ideas emanating from chrush fathers/desert fathers with the APO's etc.
+But rish in understanding as in earyl churst was about how to merge strucutre and netwoeik.. I.e these patterns can be used to reflect or be incorportaed in other networks wos in an organisation or just as inspiration. It build heavily on iedas from Edgy and Contious product from Tlopagornig bust just as implement on differneet levels where which some may be on a very high leve. 
+
 # License
 All patterns and other material, available under CC BY-SA 4.0 license unless otherwise noted.
