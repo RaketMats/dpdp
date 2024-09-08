@@ -46,5 +46,9 @@ Building in contrast to to hierachial/structure on a more network thikning, loos
 Draw upon very early school/university ideas emanating from chrush fathers/desert fathers with the APO's etc.
 But rish in understanding as in earyl churst was about how to merge strucutre and netwoeik.. I.e these patterns can be used to reflect or be incorportaed in other networks wos in an organisation or just as inspiration. It build heavily on iedas from Edgy and Contious product from Tlopagornig bust just as implement on differneet levels where which some may be on a very high leve. 
 
+# Another inspiration from board games
+Board games often build upon very complex mechanisms. They are still possible to play becuase these mechanisms are manifested through artwork, rule cards, boards with graphical content.
+This is worth exploring and using.
+
 # License
 All patterns and other material, available under CC BY-SA 4.0 license unless otherwise noted.
