@@ -4,6 +4,11 @@ Digital Product Development Patterns
 # What it is
 This is about way of working when designing digital products. It is not a framework. It is more of patterns that can be used in either more un-managed circumstances or in very managed. It can adhere to existing way of workings, or processes or frameworks. It is designed to easily be identified where and when to use, how to merge into existing forms of working. The basic architectural principle is the traditional of highly cohesive and loosely coupled.
 
+# Main area, focus
+The creative process can be seen as having two distinct parts. The insight->idea part where ideas are formed in thoughts and then the second distinct part where these ideas are manifested as products, not necessarily physical objects, it can also be a text for example. This process is in some way not really described. Design thinking does it to some extent but the insight is that there is a need for more and broader set of tools that also applies for digital products, and therefore also the specific material of such products, code, systems, systems development, IT architecture. To get a connection, practical knowledge, down to the real realisations.
+These tools are therefore not focusing on project management, planning, resources etc. but on the creative process. Another insight is that projects tend to focus a lot on planning, prioritisation, resources, risks. And the creative process does not always get necessary space, time, resources. One reason might be that people good at managing and leadning projects are not that skilled in the creative side. Another cause might be that people have a tendency to want to get problem go away, so if some kind of solution if sound, go for it instead of broadening the understanding of both problems and solutions.
+So these tools aim at strengthening the creative part, giving it tools and also act as information directed at project leaders and managers how this work is to be done, what is needed, to help give it headroom in projects.
+
 ## The Medici Principle
 During medival times, the Medici family brought together a wide variety of people with different skills, coming from different backgrounds and an experiment started to find out how these capabilities could bring something more, and new together. It worked well, more about it can be read in the book 'The Medici Effect'. 
 
