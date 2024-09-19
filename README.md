@@ -23,11 +23,11 @@ With _Agile Scene_ is again a broad scope but limited to the kind of thriving, m
 Some in betweens are _Product Discovery_ by Teresa Torres and also _Continous Product Discovery_ by Tolpagorni which really are good examples of the Medici idea, bringing togehter different capabilities and building new skills.
 
 # So, what are these products then
-We do not know. But we have a lot of insights, and some hypothesises and we have a way of finding out, via design way of working and continous discovery.
+We do not know yet. But we have a lot of insights, and some hypothesises and we have a way of finding out, via design way of working and continous discovery.
 The hypothesis from the above insights and definitions is that competencies such as IT architecture, design movement, agile movement could in the same way as Medici, be brought togehter and even more, should be brought together. The work here suggest different ways of doing this. 
 
 ## Apothegmata
-In about 300 A.D. the early Christian church started to emerge within the Roman empire as an effect of Constantins decision to declare Christinaty as state religion in Roman Empire. This led to two interesting organisational developments. 
+In about 300 A.D. the early Christian church started to emerge within the Roman empire as an effect of Constantins decision to declare Christianity as state religion in Roman Empire. This led to two interesting organisational developments. 
 The first was that a group of people started to build a hierachial structure for managing the emerging church, including giving themselves different roles, authority to follow these roles and producing different kind of processes and naturally a lot of textual descriptions, both defining and governing in nature.  
 The second was that another group of people fled as far as they could from this emerging organisational work, into the deep deserts of Egypt and surrounding wilderness, to live in caves and simple huts and trying to build the church upon a set of guiding principles that quite soon started to emerge. This group of people became known as 'The Desert Fathers'(for they were mostly, but not entirely, men) Their principles were never really written down, instead their verbal account were collected by disciples and written down, often in very short form because the fathers themselves shyed away form all kind of publicity, and all verbal accounts became short, concentrated, with a strong practical form since they often also let their practical actions show. These collections became known as 'The saying of the desert father' or 'Apophthegmata' in ancient greek.
 
@@ -45,7 +45,7 @@ The Apophthegmatas worked the other way around. Short, to thepoint, textual sent
 Therefore this work adheres to the way of these Apophthegmatas instead of the hierachical, more typical framework way.  
 
 # Another description
-This is not a frameowrk more patterns.
+This is not a framework, instead more of patterns.
 There is aneed for somethning describing Medici perspeict with architecture, design, agile and sydev.
 Building in contrast to to hierachial/structure on a more network thikning, loose, and cohjesive.
 
