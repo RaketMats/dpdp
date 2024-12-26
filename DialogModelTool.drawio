@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="ABCDesEntSociety" id="bwlkPvR7cSOzgsFfPRaq">
+    <mxGraphModel dx="3268" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-0" />
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-1" parent="ULwr-MIWAUazQ0HeTMpl-0" />
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-2" value="Architectural&lt;div&gt;Form&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=14;fillColor=#A6C0FF;shadow=0;dashed=0;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="182" y="113" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-3" value="Architectural Structure" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=14;fillColor=#A6C0FF;shadow=0;dashed=0;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="182" y="204" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-4" value="The Business" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#E599FF;fontSize=14;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="35" y="204" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-5" value="Use Case här...&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=14;strokeColor=#262626;fontColor=#262626;align=left;verticalAlign=top;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="-249" y="55" width="194" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-6" value="Society" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=14;strokeColor=#262626;fontColor=#262626;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="35" y="60" width="274" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ULwr-MIWAUazQ0HeTMpl-7" value="Use Cases" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=14;strokeColor=#262626;fontColor=#262626;" parent="ULwr-MIWAUazQ0HeTMpl-1" vertex="1">
+          <mxGeometry x="36" y="113" width="129" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tDvoRsZ_ctLnOf_sllG6-0" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;People&lt;/div&gt;" style="shape=image;aspect=fixed;image=data:image/svg+xml,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJMYXllcl8yIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fS5jbHMtMiwuY2xzLTN7ZmlsbDojMjYyNjI2O30uY2xzLTN7b3BhY2l0eTowO308L3N0eWxlPjwvZGVmcz48ZyBpZD0iTGF5ZXJfMS0yIj48Zz48cmVjdCBjbGFzcz0iY2xzLTMiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIvPjxnPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTEiIHk9IjQiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxNCIgcng9IjUiIHJ5PSI1Ii8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJtMTYsMTljLTMuMzA4LDAtNi0yLjY5Mi02LTZ2LTRjMC0zLjMwOCwyLjY5Mi02LDYtNnM2LDIuNjkyLDYsNnY0YzAsMy4zMDgtMi42OTIsNi02LDZabTAtMTRjLTIuMjA2LDAtNCwxLjc5NC00LDR2NGMwLDIuMjA2LDEuNzk0LDQsNCw0czQtMS43OTQsNC00di00YzAtMi4yMDYtMS43OTQtNC00LTRaIi8+PC9nPjxnPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0ibTQsMjl2LTIuNWMwLTIuNzUsMi4yNS01LDUtNWgxNGMyLjc1LDAsNSwyLjI1LDUsNXYyLjVINFoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Im0yOSwzMEgzdi0zLjVjMC0zLjMwOCwyLjY5Mi02LDYtNmgxNGMzLjMwOCwwLDYsMi42OTIsNiw2djMuNVptLTI0LTJoMjJ2LTEuNWMwLTIuMjA2LTEuNzk0LTQtNC00aC0xNGMtMi4yMDYsMC00LDEuNzk0LTQsNHYxLjVaIi8+PC9nPjwvZz48L2c+PC9zdmc+;strokeColor=#262626;strokeWidth=9;fontSize=14;fontColor=#262626;fillColor=default;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;whiteSpace=wrap;spacingBottom=0;spacingTop=-7;html=1;" vertex="1" parent="ULwr-MIWAUazQ0HeTMpl-1">
+          <mxGeometry x="-360" y="71" width="31" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
