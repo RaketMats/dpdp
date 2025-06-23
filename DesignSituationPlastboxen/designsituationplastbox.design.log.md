@@ -47,3 +47,21 @@ III becomes V över tid. III 'AlltSomBehöverBli' utgörs av användarförståel
 Alltså 'AlltSomBehöverGöras' pulls left o identifierar att t.ex ett behov behöver förstås, tsammans m användare det gäller, verksamhetens outcome osv. Detta sorteras in under III o utförs där men innan det behöver pull left ske mot II 'AlltSomBehöverVara' som identifierar vem i teamet som gör detta, att ett team behövs öht o var vi gör research o hur vi får tillgång till att intervjua t.ex ngn i verksamheten. 
 
 The pull left is about learning. IV is fundamentally formulated as 'what do we need to learn'. V then is where we learn. Left/upstream is about how to provide what to learn.
+
+## Stegen/Faserna/Platserna. Dit man 'Left Pulls'
+Se 200 o 201 o 202.
+
+### I Idea/AThoughtInSomebodysHead
+Den första iden. Kan vara en vision men visionen växer normalt o blir III AlltSomBehöverBli
+
+### II AlltSomBehöverVara
+Allt. Teamet. Organisation som kan tillhandahålla ett team samt de resurser det behöver. Kaffeautomaten. Arbetssätt. Leverabler och information som specar, behov, designspecar, termer o begrepp o informationsmodell. Principer som ABCDesent o Snowmans samt beslutet att använda dessa.
+
+### III AlltSomBehöverBli
+Lösningen. Även vision. Är modeller, text, krav o leder till mockups, prototyper, MVPer under V 'TheReal' aka 'TheUltimateParticular'
+
+### IV AlltSomBehöverGöras
+Startpunkten som drar igång den inre loopen mot att leverera V men upptäcker att man då måste Pull Left.
+
+### V  Produkten aka TheUltimateParticular
+Detta är den framväxande produkten. I början skisser, modeller, kanske bara text men över tid mockups, protoyper, MVP'er coh den riktiga produkten, 'Packaged' också.
