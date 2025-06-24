@@ -80,6 +80,11 @@ Detta är den framväxande produkten. I början skisser, modeller, kanske bara t
   - Jag sätter ju upp PlasticBoxen i Bevarande, i Sharepoint. Vad kan jag använda för plats, git, för detta arbete? 
   - Kaizen o att hålla en linje när jag tvingas hoppa mellan pårojekt osv. Kanske löser sig med en bra, traditionell setup av IV AlltSomBehöverGöras.
 
+- I jobbet. Gör om Assemblagen till en Visio/Drawio-modell. Det blir soo much better.
+   - Lägg till ett kort 'Conversation'. User stories är ffa för konversationen. Inte för att en skall sitta o skriva o andra läsa. Same m assemblagen, inte att jag skall sitta o göra den som en moasik utan vi tsammans, gör en moodboard, assemblage - conversationen runt denna.
+   - Sätt sedan upp dessa assemblages II o III på en vägg. Att få en yta vi kan röra oss, left-right isf Sharepoint som är vertikal, gå runt, få en rumskänsla. Den design place
+   - När jag provat detta, om d funkar, skriv kort för det också Design Thing, Creative Density. Men var, på jobbet, kan vi få ha denna hängande. Jämde assemblage måste Produkten växa fram, som i en verkstad där det finns en arbetsbänk i mitten där vi arbetar på produkten o skisser hänger på väggarna runtomkring.
+
 - Det är lätt att tappa bort den fundamentala loopen. 
 - Skall det vara en backlog, som nu, eller flera? Kan IV supportera arbetet i I II III, som den nu är riggad supporterar den arbetet i V. Skall den också vara på samma nivå som II III eller skall det vara en backlog under varje steg II III och V.
 - Backlogen behöver kanske inte beskrivas så mkt, andra gör det bättre. Det är en backlog som behöver story, epic/program-nivåer, typ Jira. Kanban o WIP är förmodligen bäst setup.
@@ -87,4 +92,3 @@ Detta är den framväxande produkten. I början skisser, modeller, kanske bara t
 - Genomgående är det viktigt att hålla sig till 'constraints' och 'ordning o reda'. Att mosaiken av beskrivningar hålls korta för att skapa översikt. Att hålla undan information genom under-sidor.
 - För att få saker att hända, förändringen. Kaizen. Detta är en constraint till. Som hjälper till att få saker att hända. DesignSituation in Plastic Box har ju helheten, sammanhanget, arbetssättet o gör det möjligt att . Att tillämpa Kaizen o göra detta i mkt små arbetspaket borde funka o hjälpa till.
 Faktum är nog att 100 är d väl om interlace är superviktig. Hemma o på jobbet där jag har flera olika projekt. Frågan vi behöver lära är hur skapar man en pågående situation i de olika projekten när man hoppar mellan dem, tvingas hoppa ut snabbt eller mera medvetet kan avsluta pågående arbete. Håller fast när ett arbete består av stories man jobbat m ett tag, sedan behöver göra ngt annat, äta, handla sova annat projekt. Hur fortsätter jag. Så att storyn jag håller på med fortsätter mot produkten som skall byggas. Skall man spara storyn skriva en log. Finns ngn helt annan mekanism,pull leanemekanism?
-- 
