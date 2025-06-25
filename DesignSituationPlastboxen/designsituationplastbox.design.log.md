@@ -1,5 +1,5 @@
 # Om
-Jag drar mig för att flytta detta arbete till datorn o att skriva om. Jag har redan börjat inse att jag behöver skriva, mera detaljerat, längre än vad som får plats på kortens format. Det gör att jag blir orolig att det blir skrivande igen, att det tappar den korta formen som korten ger - constraints o som driver fungerande, praktisk, konrket leverans som jag kan börja testa.
+Detta är kompletterande arbete från det praktiska att bygga, V och VI(the Workbench) Det är viktigt att inte ta över från att producera prototoyper, korten o De Analogerna osv. Det är lätt att det blir anteckningar som inte leder till test av produkten. Det gör att jag blir orolig att det blir skrivande igen, att det tappar den korta formen som korten ger - constraints o som driver fungerande, praktisk, konkret leverans som jag kan börja testa.
 
 Jag tror också det här är något som behöver bli ett praktiskt redskap, åt boardgame-hållet o inte en websida eller bok, åtminstone inte i början där jag istället behöver det snabba, fria formatet som produkter av vita o Ikea-kort ger. Men jag får se det som hur boardgame-utvecklare använder text, grafikverktyg, kanske modeller i Visio typ för att utveckla hur mechanics, aspekter, regler får en form i spelet. Sedan kan formen bli ett boardgame, eller en webapp, eller en ABCDesEnt-app
 
