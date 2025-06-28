@@ -92,3 +92,15 @@ Detta är den framväxande produkten. I början skisser, modeller, kanske bara t
 - Genomgående är det viktigt att hålla sig till 'constraints' och 'ordning o reda'. Att mosaiken av beskrivningar hålls korta för att skapa översikt. Att hålla undan information genom under-sidor.
 - För att få saker att hända, förändringen. Kaizen. Detta är en constraint till. Som hjälper till att få saker att hända. DesignSituation in Plastic Box har ju helheten, sammanhanget, arbetssättet o gör det möjligt att . Att tillämpa Kaizen o göra detta i mkt små arbetspaket borde funka o hjälpa till.
 Faktum är nog att 100 är d väl om interlace är superviktig. Hemma o på jobbet där jag har flera olika projekt. Frågan vi behöver lära är hur skapar man en pågående situation i de olika projekten när man hoppar mellan dem, tvingas hoppa ut snabbt eller mera medvetet kan avsluta pågående arbete. Håller fast när ett arbete består av stories man jobbat m ett tag, sedan behöver göra ngt annat, äta, handla sova annat projekt. Hur fortsätter jag. Så att storyn jag håller på med fortsätter mot produkten som skall byggas. Skall man spara storyn skriva en log. Finns ngn helt annan mekanism,pull leanemekanism?
+
+# Rules
+## 300 Mini Rogue
+Tänk i att det utförs olika moment. Organisera 3x4 sådana moment. Då får det bara vara x antal research, x antal osv.
+
+## 3nn Begin with a first iteration of the Product 
+Utgå ifrån I II osv som leveranser alltså det olika saker som behöver vara, projektet, solution/designen. Men förtydliga att alltid börja bygga på produkten. Hur isåfall om man jämför m industridesign, t.ex fordon där man skissar form o relationer o funktioner o estetik sedan bygger snabba modeller, i trä eller lera o industridesign byggs ofta i typ kartong eller nu 3D-print. Vad motsvarar det i en digital produkt, form är use-case vs function o capabilitie, estetik är channels o touchpoints. 
+Att på det här sättet börja direkt, inte med specar utan skissa ngt, utan att man riktigt vet ännu gör att left-pull drar igång direkt. Tänk i iterationer där den allra första iterationen bara är en skiss, den kan ha Edgy för att tydliggöra. Utforska lite mer etablerat via foamboards, mina 3D-foamboard. 
+Att börja direkt kan anses förhastat när man inte vet någonting men det är grejen, man tvingas left pull mot design/solution o mot projektet o mot visionen. Det man saknar i detaljer, förståelse av behov, om vi har ett projekt som har förmågan att leverera, uppvägs av att det dels blir mera påtagligt hur vi lär oss från något tangible, samt att själva denna första skiss tar plats i rummet, den finns, att återvända till, den skapar ett behov av utrymme runtomkring att vara för teamet, den behöver ett utrymme, en projektyta.
+
+## 3nn First iteration of Product is based on Learning
+Det viktiga är att att runt produkten i sin tidiga iteration finns fråga(or) kring vad d är vi vill ha svar på. O dessa leder från i II III via reframings. De bygger också på I II III o lär oss mer om dem också, alltså push right typ. Produkten i sim tidiga iterstion är d som driver vad son byggs kring I II III. Det är en del av lärandet.
