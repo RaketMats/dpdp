@@ -29,6 +29,7 @@ Detta handlar också om att det alltså inte är linjärt, inte som 'Hjulet' och
 Detta kort är överkryssat. Det läggs också upp och ner. Det är ett anti-pattern. Det är ett första, spontant kort som gjordes utifrån 'börja från början' eller 'first that, then that' och top down o utgå frnå en struktur. Allt d som inte funkar. Detta kort utgör också en bild av att 'LedStyr' vs 'Self Organize' är 90/10 isf som nu, 25/75.
 
 Utan.
+
 ### Den fundamentala loopen 200, 201, 202 m.fl. 'Shift right via 'Pull Left'
 Allt syftar till att bygga den riktiga produkten, shift-right, allt annat bara supporterar detta, inget annat är viktigt. 
 Starten är i IV 'AlltSomBehöverGöras' med att börja beskriva vad som skall utföras på 'TheUltimateParticular' + 'Packaged'. Där finns ingenting att göra när man börjar. Det finns inte heller något att börja beskriva, som skall göras. Istället måste man go left o pull från III 'AlltSomBehöverBli' och där finns heller inget utan left pull II 'AlltSomBehöverVara' som beskriver vilka, o hur III kan börja fyllas. Förmodligen finns I 'AThoughtInSomebodysHead' men kan behöva crispas till so det är nog där man landar.
@@ -50,8 +51,8 @@ The pull left is about learning. IV is fundamentally formulated as 'what do we n
 
 ## Stegen/Faserna/Platserna. 
 Följande delar finns:
-- IV 'AlltSomBehöverGöras' och som syftar till att bygga på V 'Produkten' genom intentioner mot en lösning via validated learning, stories som utgår från en ansats och hur denna valideras och därifrån nästa riktning av lärande. Den första storien finns med som mall och utgår frn insikten att allt är tomt, I, II III är tomma och måste börja fyllas och normalt är det första att lära sig vad I skall fyllas med.
-- Översikterna II 'AlltSomBehöverVara', III 'AlltSomBehöverBli' och vars syfte är att ge en översikt att återvända till, samt en plats där projektet växer fram(II) och där en bild av lösningen (III) växer fram, för att över tid bli V 'Produkten'.
+- VI 'AlltSomBehöverGöras' och som syftar till att bygga på V 'Produkten' genom intentioner mot en lösning via validated learning, stories som utgår från en ansats och hur denna valideras och därifrån nästa riktning av lärande. Den första storien finns med som mall och utgår frn insikten att allt är tomt, I, II III är tomma och måste börja fyllas och normalt är det första att lära sig vad I skall fyllas med.
+- Översikterna II 'AlltSomBehöverVara'/'The Project', III 'AlltSomBehöverBli'/'Design or Solution' och vars syfte är att ge en översikt att återvända till, samt en plats där projektet växer fram(II) och där en bild av lösningen (III) växer fram, för att över tid bli IV 'Produkten' som byggs på i V 'Workbench'.
 - Visionen, I, blir över tid bättre representerad av III som är bilden av allt som behöver bli.
 - II Kan vara i form av en Moodboard, ett Collage eller Assemblage. Edgy hjälper till att få med alla olika element o kan sedan användas för re-framing för att ta fram   
 Se 200 o 201 o 202.
@@ -68,11 +69,17 @@ Lösningen. Även vision. Är modeller, text, krav o leder till mockups, prototy
 I stort Use-Cases o Functions. Architectural Form & Structure. What the System is(information and structure) and Does(functionality and context).
 Detta är en plats där teamet tar makten och kan designa produkten och tjänsten så som de vill ha den. Via Edgy coh gemensam kunskap som byggs utforskande och lärande, kontinuerligt.
 
-### IV AlltSomBehöverGöras
+### IV  Produkten aka TheUltimateParticular
+Detta är den framväxande produkten. I början skisser, modeller, kanske bara text men över tid mockups, protoyper, MVP'er och den riktiga produkten, 'Packaged' också.
+Det är här arbetet börjar med att försöka formulera något att börja bygga i VI AlltSomBehöverGöras. Här upptäcks att det inte går utan rörelsen left-pull startar via III AlltSomBehöverBli där designarbete behöver påbörjas och som behöver team, resurser och då rör sig pull left mot II AlltSomBehöverVara och vidare mot I Vision.
+Det viktiga är att bygga på Produkten, även i den allra första iterationen som kan vara bara en skiss på ett papper. Detta papper är nu Produkten och har en fysisk form och behöver därmed en plats att vara där Teamet kan gravitate towards. 
+
+### V Workbench
+Där produkten växer fram.
+
+### VI AlltSomBehöverGöras aka 'Backlog'
 Startpunkten som drar igång den inre loopen mot att leverera V men upptäcker att man då måste Pull Left.
 
-### V  Produkten aka TheUltimateParticular
-Detta är den framväxande produkten. I början skisser, modeller, kanske bara text men över tid mockups, protoyper, MVP'er coh den riktiga produkten, 'Packaged' också.
 
 # Lärande och Insights
 - Jag behöver börja arbeta enligt PlasticBox själv, när jag utvecklar PlasticBox-way. Hur gör jag det
@@ -97,10 +104,16 @@ Faktum är nog att 100 är d väl om interlace är superviktig. Hemma o på jobb
 ## 300 Mini Rogue
 Tänk i att det utförs olika moment. Organisera 3x4 sådana moment. Då får det bara vara x antal research, x antal osv.
 
-## 3nn Begin with a first iteration of the Product 
+## 100 Pull Left
+Start build. There is not clear what to build. Therefore move left to AlltSomBehöverGöras and define a Story. There is no design yet, no solution thought of, so move left to AlltSomSkallBli and start thinking about this. There is no one to start this thinking together with and there is no place to work in and no coffee machine so move left to AlltSomBehöverVara and it is not clear why the project exist so move left to I Vision.
+
+## 101 Begin with a first iteration of the Product 
 Utgå ifrån I II osv som leveranser alltså det olika saker som behöver vara, projektet, solution/designen. Men förtydliga att alltid börja bygga på produkten. Hur isåfall om man jämför m industridesign, t.ex fordon där man skissar form o relationer o funktioner o estetik sedan bygger snabba modeller, i trä eller lera o industridesign byggs ofta i typ kartong eller nu 3D-print. Vad motsvarar det i en digital produkt, form är use-case vs function o capabilitie, estetik är channels o touchpoints. 
 Att på det här sättet börja direkt, inte med specar utan skissa ngt, utan att man riktigt vet ännu gör att left-pull drar igång direkt. Tänk i iterationer där den allra första iterationen bara är en skiss, den kan ha Edgy för att tydliggöra. Utforska lite mer etablerat via foamboards, mina 3D-foamboard. 
 Att börja direkt kan anses förhastat när man inte vet någonting men det är grejen, man tvingas left pull mot design/solution o mot projektet o mot visionen. Det man saknar i detaljer, förståelse av behov, om vi har ett projekt som har förmågan att leverera, uppvägs av att det dels blir mera påtagligt hur vi lär oss från något tangible, samt att själva denna första skiss tar plats i rummet, den finns, att återvända till, den skapar ett behov av utrymme runtomkring att vara för teamet, den behöver ett utrymme, en projektyta.
 
-## 3nn First iteration of Product is based on Learning
+## 102 Phases of the Digital Matter
+A product can exist at first as a very rough sketch, then more elaborated, in text or models, then as mockups and or as prototypes, then as MVPs.
+
+## 103 First iteration of Product is based on Learning
 Det viktiga är att att runt produkten i sin tidiga iteration finns fråga(or) kring vad d är vi vill ha svar på. O dessa leder från i II III via reframings. De bygger också på I II III o lär oss mer om dem också, alltså push right typ. Produkten i sim tidiga iterstion är d som driver vad son byggs kring I II III. Det är en del av lärandet.
