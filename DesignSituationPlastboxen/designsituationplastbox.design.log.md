@@ -10,6 +10,20 @@ Jag vill behålla både den constraint korten innebär, samt den praktiska form,
 Jag provar därför att lägga upp i git-repot, som korta .md-filer där varje fil är en constrained del, motsvarande korten men med lite mer utrymme. Som över tid kan bli rule-cards kanske. Kan ha en fix form, en bild, en kort text m maxlängd. Gör längre beskrivningar genom att kombinera korten.
 Jag har redan texter utspridda. I Blue Dotted. Här i detta repo. I 'Werkstatt Sketchbook'(men flyttat därifrån till hit).
 
+# Mechanics
+Right now mechanics are implemented with rules, this is too strict. Same as Mini Rogue I tried last summer which didnt work. HMW
+
+Allt drivs av att det inte finns några särskilda steg att följa. De steg som skall följas är superenkla, i stil m Flux. Det enda dessa steg specar är hur man hittar saker att utföra.
+
+Allt startar med ingenting o att hitta behov, problem opportunities. Separat mechanics kring hur man gör, habituation, uppmärksamhet osv.
+
+Nästa fas/plateu är när ett problem, behov, opportunity är definierat. Då är steget att skapa en DesignSituation. Denna består av I Vision, II AlltSomBehöverVara/Projekt, III AlltSomBehöverBli/Design, solution. IV AlltSomBehöverGöras/Backlog. Hur dessa utformas, finns mallar för, ABCDesEnt, V-model, Kadensen eller referens t typ Kanban som andra beskriver bättre. Inte minst II behöver en beskrivande mall, personer, team, en plats, resurser, budget osv.
+Detta är en slags supporterande loop som man behöver återvända till, se över DesignSituation regelbundet.
+
+Nästa fas när detta är på plats är Rule nnn som är 'Build Product' o här drar huvudloopen igång. Det finns ingen Story som talar om vad man skall göra o LeftPull kickar in(denna behöver inte en Story i Backlogen utan är ju Mechanics)
+
+!Ny rule/template behövs kring vad en Story är. Det är en ValidatedLearning, Kromatics e likn. UserStory osv.
+
 # Form
 ## Tänkt form på det jag tar fram, vad 'Designsituationen' får för en form.
 Kort och boards. Mallar(på boards?). Rule cards. Mechanics kan implementeras som ex en begränsning i i antal rutor på en board, eller val i ett rule card, som Monastery gör eller Mini Rogue.
