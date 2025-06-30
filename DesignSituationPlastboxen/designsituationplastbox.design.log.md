@@ -10,6 +10,17 @@ Jag vill behålla både den constraint korten innebär, samt den praktiska form,
 Jag provar därför att lägga upp i git-repot, som korta .md-filer där varje fil är en constrained del, motsvarande korten men med lite mer utrymme. Som över tid kan bli rule-cards kanske. Kan ha en fix form, en bild, en kort text m maxlängd. Gör längre beskrivningar genom att kombinera korten.
 Jag har redan texter utspridda. I Blue Dotted. Här i detta repo. I 'Werkstatt Sketchbook'(men flyttat därifrån till hit).
 
+# Overview and Shortform
+Fälten/Områdena I, II, III är de beskrivningar som alltid behövs, för att återvända till där projekt och lösning beskrivs och byggs på efterhand och för allt arbete behöver re-visit eller tjäna som grund för diskussioner, för att se var man var osv. Det är också där design sker enligt t.ex ABCDesEnt o Software Engineering.
+
+Produkten V är där arbetet alltid utgår ifrån, att build on the product. Genom skisser, mockups, prototyper, wireframes som av även i mkt enkel form försätter team och användare i en föreställning om vad produkten är. 
+
+Ett flöde pull-left som när man börjar med Produkten går åt vänster och tydliggör det som behövs ifrån design III, sedan av projektet i II och visionen om det behövs, I. Syftet är 'working software over documentation' samt 'praktisk kunskap'
+
+IV Planering när V Produkten skall byggas sker utifrån Lärande, 'what is flowing is knowledge', 'valitaded learning'. 
+
+Product Strategy är ett nytt fält IV/B eller vad det blir o handlar om Roadmap, Värde osv. vilket är tbd från Herbig m.fl, Value Strategy. Hjälper tsammans m IV i form av en OST för att förstå vad som är mest värdefullt, hur man kommer överens m Beställare o Intressenter. 
+
 # Mechanics
 Right now mechanics are implemented with rules, this is too strict. Same as Mini Rogue I tried last summer which didnt work. HMW
 
