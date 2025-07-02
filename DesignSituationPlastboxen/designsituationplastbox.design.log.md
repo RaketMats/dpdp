@@ -30,10 +30,14 @@ Allt startar med ingenting o att hitta behov, problem opportunities. Separat mec
 
 Nästa fas/plateu är när ett problem, behov, opportunity är definierat. Då är steget att skapa en DesignSituation. Denna består av I Vision, II AlltSomBehöverVara/Projekt, III AlltSomBehöverBli/Design, solution. IV AlltSomBehöverGöras/Backlog. Hur dessa utformas, finns mallar för, ABCDesEnt, V-model, Kadensen eller referens t typ Kanban som andra beskriver bättre. Inte minst II behöver en beskrivande mall, personer, team, en plats, resurser, budget osv.
 Detta är en slags supporterande loop som man behöver återvända till, se över DesignSituation regelbundet.
+- II AlltSombehöverVra är alltså en flannelograf, en mood-board, en assemblage. Som innehåller allt. Men även detaljer som kan var arbetsinstruktioner osv. Därför att man alltid behöver ha allt detta på en plats, eller där man kan hitta via referenser, länkar osv. 
+- III Är same fast lösningen. En plats att återvända när man t.ex gör en säk-klassning. En kanonisk modell man kan göra re-frames ifrån.
 
 Nästa fas när detta är på plats är Rule nnn som är 'Build Product' o här drar huvudloopen igång. Det finns ingen Story som talar om vad man skall göra o LeftPull kickar in(denna behöver inte en Story i Backlogen utan är ju Mechanics)
 
 !Ny rule/template behövs kring vad en Story är. Det är en ValidatedLearning, Kromatics e likn. UserStory osv.
+
+Mechanics är sedan inte en top down struktur, som ju misslyckades i Styrdok. Utan istället det Herbig benämner 'patterns' men som inte heller är tigkti riktigt. Utan det är en mekanism som man kan anvnda bottom up, utifrån var man är o vad som behövs, inte för att ett steg säger att sedan skall vi göra detta.
 
 # Form
 ## Tänkt form på det jag tar fram, vad 'Designsituationen' får för en form.
