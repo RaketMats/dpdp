@@ -109,15 +109,18 @@ Där produkten växer fram.
 ### VI AlltSomBehöverGöras aka 'Backlog'
 Startpunkten som drar igång den inre loopen mot att leverera V men upptäcker att man då måste Pull Left.
 
+# Validated learning
+Arbetspaket skall utföras lärande. I II III X L eller annat format. 'Vad behöver vi lära oss' och 'What is flowing is knowledge'. 
+Detta behöver en loop med användare, representanter så som vi gjorde i LabX men #insight att det inte riktigt kommit på plats i Bevarande eller Telefoni utan där är det mkt att vi sitter o försöker fundera ut själva.
 
-# Lärande och Insights
+# Lärande och Insights kring Plasticbox-arbetet
 - Jag behöver börja arbeta enligt PlasticBox själv, när jag utvecklar PlasticBox-way. Hur gör jag det
   - Då är det att bygga mkt mer på Produkten än vad jag gör.
   - Jag sätter ju upp PlasticBoxen i Bevarande, i Sharepoint. Vad kan jag använda för plats, git, för detta arbete? 
   - Kaizen o att hålla en linje när jag tvingas hoppa mellan pårojekt osv. Kanske löser sig med en bra, traditionell setup av IV AlltSomBehöverGöras.
 
 - I jobbet. Gör om Assemblagen till en Visio/Drawio-modell. Det blir soo much better.
-   - Lägg till ett kort 'Conversation'. User stories är ffa för konversationen. Inte för att en skall sitta o skriva o andra läsa. Same m assemblagen, inte att jag skall sitta o göra den som en moasik utan vi tsammans, gör en moodboard, assemblage - conversationen runt denna.
+   - Lägg till ett kort 'Conversation'. User stories är ffa för konversationen. Inte för att en skall sitta o skriva o andra läsa. Same m assemblagen, inte att jag skall sitta o göra den som en mosaik utan vi tsammans, gör en moodboard, assemblage - conversationen runt denna.
    - Sätt sedan upp dessa assemblages II o III på en vägg. Att få en yta vi kan röra oss, left-right isf Sharepoint som är vertikal, gå runt, få en rumskänsla. Den design place
    - När jag provat detta, om d funkar, skriv kort för det också Design Thing, Creative Density. Men var, på jobbet, kan vi få ha denna hängande. Jämde assemblage måste Produkten växa fram, som i en verkstad där det finns en arbetsbänk i mitten där vi arbetar på produkten o skisser hänger på väggarna runtomkring.
 
