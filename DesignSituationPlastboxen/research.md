@@ -124,3 +124,158 @@ is acting making nor is making acting.35
 
 ## Sammanfattning
 tbd
+
+## Question
+Gemini: 'what is an actant'
+
+## Answer
+The term "**actant**" is most famously associated with **Actor-Network Theory (ANT)**, a sociological and philosophical framework developed primarily by Bruno Latour, Michel Callon, and John Law. However, its origins can also be traced back to semiotics and narrative theory.
+
+Here's a breakdown of what an actant means, particularly in the context of ANT:
+
+**In Actor-Network Theory (ANT):**
+
+In ANT, an actant is **anything that acts or to which activity is granted by others**. The crucial part is that an actant can be **human or non-human**.
+
+The core idea of ANT, and therefore the concept of actants, challenges traditional sociological views that primarily focus on human agency. ANT argues that the social world is made up of complex "networks" or "assemblages" where both human and non-human elements play active roles in shaping outcomes.
+
+Key characteristics of actants in ANT:
+
+1.  **Generalized Symmetry:** ANT proposes that humans and non-humans should be analyzed using the same terms and given equal analytical weight. There's no inherent hierarchy where humans are seen as the sole drivers of action.
+2.  **Source of Action/Influence:** An actant is anything that "makes a difference" or "modifies a state of affairs." This can be:
+    * **Humans:** Individuals, groups, organizations.
+    * **Objects/Technologies:** A door, a computer, a light switch, a vaccine, a specific piece of software.
+    * **Ideas/Concepts:** A scientific theory, a management principle, a political ideology.
+    * **Natural Phenomena:** Weather, gravity, microbes, a river.
+3.  **Agency without Intentionality:** This is often the most challenging aspect to grasp. Non-human actants don't have consciousness, will, or intention like humans do, but they still exert influence and shape events.
+    * *Example:* A speed bump (non-human actant) forces a driver (human actant) to slow down. The speed bump isn't "trying" to make you slow down, but its physical presence has a direct effect on your behavior. Microbes (non-human actants) cause fermentation or disease, acting within their biological properties and shaping human actions (e.g., Pasteur's work).
+4.  **Relational:** An actant's "agency" isn't inherent in isolation but emerges from its relationships and interactions within a network. An object only "acts" in relation to other objects and humans.
+5.  **Assemblages:** Actants come together to form assemblages or networks. These networks are constantly being built, maintained, and sometimes dismantled through the interactions of the actants within them.
+
+**In Semiotics and Narrative Theory (pre-dating ANT):**
+
+The term "actant" was originally introduced by the linguist Lucien Tesnière in grammar and later popularized in semiotics and narrative theory by figures like A.J. Greimas. In this context, an actant refers to a **structural role** in a narrative, rather than a specific character.
+
+* Greimas's "actantial model" identified six universal actants (pairs of binary oppositions) that drive a narrative:
+    * Subject / Object (who desires what?)
+    * Sender / Receiver (who initiates the quest / who benefits?)
+    * Helper / Opponent (who aids / who hinders?)
+
+Here, an "actant" is a functional position that can be filled by various characters, objects, or even abstract forces (e.g., "fate" could be an opponent). The specific character is called an "acteur."
+
+**In summary:**
+
+While "actant" has roots in linguistics and semiotics, its most prominent usage today, particularly in academic and critical discourse, refers to its definition within **Actor-Network Theory**, where it signifies **anything (human or non-human) that plays an active and influential role in a network of relationships, affecting outcomes and shaping reality.**
+
+## Question
+About the real things, that mimesis is a representation of
+Gemini 'in greek philosophy mimesis is representation of something, what is the term for the real thing'
+
+## Answer
+In Greek philosophy, particularly in the context of Plato and Aristotle's discussions on **mimesis** (representation or imitation), the "real thing" being represented is often referred to by a few related terms, depending on the specific philosophical nuance:
+
+1.  **Idea (ἰδέα) / Form (εἶδος):**
+    * This is the most common and central concept, especially for **Plato**. For Plato, the true "real things" are the eternal, unchanging, perfect **Forms** (or Ideas) that exist in a transcendent realm.
+    * Physical objects in our world are merely imperfect copies or imitations (mimesis) of these perfect Forms.
+    * Art, in turn, is a *mimesis of a mimesis* – an imitation of an imitation – and thus twice removed from true reality. So, if a painter paints a bed, they are imitating a physical bed, which itself is an imitation of the perfect Form of "Bed-ness."
+
+2.  **Reality (ἀλήθεια - *aletheia* - truth/reality, or ὄν - *on* - being):**
+    * More broadly, "reality" refers to that which truly exists and is being represented. For Plato, true reality is the realm of Forms. For Aristotle, reality is found within the sensible world itself, and mimesis in art can reveal universal truths about that reality.
+
+3.  **Nature (φύσις - *physis*):**
+    * Especially in **Aristotle's** philosophy, mimesis is often understood as the imitation of *physis*, or nature. However, Aristotle's view is not simply copying. He believed that art imitates nature not just by mirroring it, but by representing its *processes* and *universal principles*, often refining or idealizing what is found in nature. So, a poet imitating human action is imitating a "real thing" in human nature.
+
+**In summary:**
+
+While **mimesis** is the *representation*, the **"real thing"** it represents is most directly the **Idea** or **Form** (for Plato) or, more broadly, **Reality** or **Nature** (especially for Aristotle, who saw art as engaging with the universal aspects of the world).
+
+## Question
+About what a real thing, a product is called
+Gemini 'ut what is a real object, a product, like a hammer called'
+
+## Answer
+Got it. If we're talking about a **real, tangible object or product** like a hammer, within the context of **Plato's philosophy** and his theory of Forms/Ideas, a physical hammer would be considered:
+
+1.  **A particular instance of a Form:** It's an imperfect, mutable, and perishable **copy (or imitation/mimesis)** of the eternal and perfect **Form of Hammer-ness** (or the Idea of a Hammer). The true "Hammer" exists only as an ideal concept in the realm of Forms.
+2.  **A "sensible" object:** It exists in the **sensible world** (the world we perceive with our senses), which Plato viewed as a world of shadows and reflections of the true reality.
+3.  **A product of *poiesis*:** This is a Greek term that means "making" or "production." A craftsman (like a blacksmith) engages in *poiesis* to create a physical hammer. This act of making is guided by their understanding (however imperfect) of the Form of the Hammer.
+
+So, for Plato, a physical hammer isn't the "real thing" in the ultimate sense; it's a **physical manifestation, a copy, or an instance** of the true, ideal Form.
+
+For **Aristotle**, on the other hand, the physical hammer *is* real. Its "form" (essence) is inherent within the matter of the hammer itself, and its purpose (to hammer) is part of its nature. Mimesis in art for Aristotle would involve representing something like the *action* of hammering, or the *essence* of a tool, which is part of the reality of the sensible world.
+
+## Question
+About the specific word Aristotle would use
+Gemini 'so what is that aristotle word for e.g. a hammer'
+
+## Answer
+For Aristotle, a real, tangible object like a hammer is considered a **substance** (Greek: **ousia**, οὐσία).
+
+Here's why and what that entails for him:
+
+1.  **Primary Substance (ousia):** For Aristotle, individual, concrete things like "this man," "this horse," or "this hammer" are primary substances. They are fundamental existents that do not depend on anything else for their being (unlike qualities like "redness" or "heaviness," which must inhere in a substance). A hammer *is* a hammer; it doesn't exist *in* something else as a property of that thing.
+
+2.  **Hylomorphism (Matter and Form):** Aristotle believed that every physical substance is a composite of **matter** (hylē) and **form** (eidos or morphē).
+    * **Matter:** The raw stuff out of which something is made (e.g., the metal and wood that make up the hammer). Matter is potentiality.
+    * **Form:** The "whatness" or essence of the thing; its structure, organization, and defining characteristics that make it what it is (e.g., the specific shape and arrangement of the metal head and wooden handle that make it a hammer and give it its function). Form is actuality.
+    A hammer is a hammer because its matter has been given the form of a hammer. You cannot separate the form from the matter in a physical object; they are intrinsically linked.
+
+3.  **Four Causes:** When explaining *why* a hammer is a hammer, Aristotle would refer to his **Four Causes**:
+    * **Material Cause:** What it's made of (e.g., steel and wood).
+    * **Formal Cause:** Its shape, structure, and essence (the blueprint or design of a hammer, what makes it identifiable as a hammer).
+    * **Efficient Cause:** What brought it into being (e.g., the blacksmith or factory worker who manufactured it).
+    * **Final Cause:** Its purpose or telos (e.g., to pound nails, to build things).
+
+So, while Plato would say a physical hammer is just a flawed copy of the true "Form of Hammer," Aristotle would say that the physical hammer itself *is* a **substance**, and its reality is fully comprehensible through its inherent matter and form, and by understanding its four causes.
+
+## Sammanfattning
+So, concept med tanke o att det blir ett fysiskt objekt återkommer alltså o kedjan dit är via prais, poiosis osv.
+Även detta med en ultimate form o particulars är likt Design Way.
+
+## Question about where to read more about this
+Gemini 'are there any books by Aristotle describing this, and that I can read or any other book by someone else describing this'
+
+## Answer
+You're asking about some of the deepest and most complex aspects of Aristotle's philosophy! His ideas on substance, matter, and form are central to his metaphysics and have influenced Western thought for millennia.
+
+Here are the key works by Aristotle himself and some excellent secondary sources that can help you understand these concepts:
+
+### Aristotle's Primary Works (Directly addressing Substance, Matter, and Form)
+
+1.  **"Metaphysics" (especially Books VII, VIII, and IX, also known as Zeta, Eta, and Theta):**
+    * **Why it's key:** This is *the* central text where Aristotle extensively develops his theory of **substance (ousia)**, hylomorphism (matter and form), potentiality and actuality, and the four causes. He critiques Plato's theory of Forms here and lays out his own understanding of what fundamental reality is.
+    * **Challenge:** The *Metaphysics* is notoriously difficult. It's a collection of Aristotle's lectures and notes, not a polished book, and some parts are highly technical and abstract. It's often recommended to read it with a good commentary.
+
+2.  **"Categories":**
+    * **Why it's key:** This is an earlier work, but it's where Aristotle first introduces his concept of **primary substance** (like "this man" or "this horse," or "this hammer") as the fundamental bearer of properties. He contrasts these with "secondary substances" (species and genera, like "man" or "animal") and "accidents" (qualities, quantities, relations, etc., like "white" or "tall"). It's a foundational text for understanding his ontology (the study of being).
+    * **Accessibility:** "Categories" is generally much shorter and more accessible than "Metaphysics" and is often a good starting point for understanding his theory of substance.
+
+3.  **"Physics" (especially Books I, II, and III):**
+    * **Why it's key:** This work explores change, motion, nature (*physis*), and the principles underlying the natural world. It's here that he introduces and discusses **matter (hylē)** and **form (eidos)** as the explanatory principles of change. Hylomorphism is very much developed here to explain how things come into being and change while retaining their identity.
+    * **Accessibility:** Like "Metaphysics," "Physics" can be challenging due to its philosophical and scientific depth.
+
+### Recommended Secondary Sources (Books by Others Explaining Aristotle)
+
+Since Aristotle's own texts can be dense, it's often very helpful to read scholarly introductions and commentaries.
+
+**For a general introduction to Aristotle's thought:**
+
+* **"Aristotle: The Desire to Understand" by Jonathan Lear:** This is a highly regarded philosophical introduction that covers Aristotle's metaphysics, physics, ethics, and more, written in clear prose.
+* **"Aristotle's Way" by Edith Hall:** While it has a strong focus on ethics, it's a very accessible book that connects Aristotle's ideas to modern life, and will touch on how he viewed reality and human flourishing. It's a good entry point for a popular audience.
+* **"A New Aristotle Reader" by J.L. Ackrill:** A classic collection of key passages from Aristotle's works, often with helpful introductions, though it's still primary text.
+
+**Specifically on Substance, Matter, and Form (Hylomorphism):**
+
+* **"Aristotle's Theory of Substance: The Categories and Metaphysics Zeta" by Michael V. Wedin:** This is a more academic book that dives deep into the coherence and development of Aristotle's substance theory across these two crucial texts. Might be more suitable after you've grasped the basics.
+* **"The Activity of Being: An Essay on Aristotle's Ontology" by Aryeh Kosman:** A more recent and influential interpretation of Aristotle's metaphysics, particularly focusing on the concept of actuality.
+* **"The Cambridge Companion to Aristotle" edited by Jonathan Barnes:** This is an excellent collection of essays by leading scholars, with dedicated chapters on his metaphysics, logic, and philosophy of nature that will address substance and hylomorphism. It's comprehensive but can be dense.
+* **The Stanford Encyclopedia of Philosophy (Online):** This is not a book, but an invaluable free online resource. Look up entries like "Aristotle's Metaphysics," "Aristotle's Categories," "Form vs. Matter," and "Substance." These articles are written by experts and provide concise, well-structured overviews with bibliographies. They are often a great starting point before diving into full books.
+
+**How to approach reading Aristotle:**
+
+* **Start with "Categories"**: It's shorter and introduces primary substance clearly.
+* **Move to a good introduction**: A book like Lear's or Hall's can give you the broader context and prepare you for the more difficult texts.
+* **Tackle "Metaphysics" with a commentary**: Don't be afraid to use a scholarly commentary or study guide alongside the main text. Readings from Book VII (Zeta) are particularly important for substance.
+* **Don't expect a linear argument**: Aristotle's works are often more like a philosophical exploration than a systematic treatise.
+
+Enjoy the journey into Aristotelian thought! It's incredibly rich and rewarding.
