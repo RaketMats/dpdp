@@ -307,3 +307,49 @@ Here's why experience was so crucial for Aristotle:
 
 In summary, for Aristotle, sensory experience is not a distraction from truth, but the **necessary starting point and raw material for all genuine knowledge**. It provides the empirical data from which the mind abstracts universals, builds understanding, and develops both theoretical wisdom and practical judgment.
 
+## Question
+Gemini 'So the greek concepts of theoria, praxis and poiesis is about getting from an idea to a real thing, like a product'
+
+## Answer
+That's an insightful connection, and you're touching upon the essence of how these concepts relate to the journey from idea to realization.
+
+While **theoria, praxis, and poiesis** are distinct concepts in Greek philosophy, particularly in Aristotle's thought, they can indeed be understood as representing different stages or aspects of "getting from an idea to a real thing," especially when that "real thing" is a product.
+
+Let's break them down in that light:
+
+1.  **Theoria (θεωρία):**
+    * **Meaning:** Contemplation, observation, pure knowledge, understanding for its own sake. It's about knowing *why* things are the way they are, understanding principles, and grasping truth. It's intellectual activity whose end is itself.
+    * **Connection to "Idea":** This is where the **idea, the theoretical understanding, the blueprint, the underlying principles, or the "whatness" of the product** resides. It's the conceptual framework, the knowledge base, the "science" behind the product.
+    * **Example in product design:** Understanding the physics of flight (for an airplane), the principles of user interaction (for an app), the material properties, the market needs in an abstract sense. This is the realm of pure knowledge and conceptualization *before* making or doing.
+
+2.  **Poiesis (ποίησις):**
+    * **Meaning:** Making, production, creation. It's activity that has an **end product distinct from the activity itself**. The goal is the creation of a tangible or measurable outcome.
+    * **Connection to "Becoming Real":** This is the **actual act of making the product**. It's the process of transforming raw materials and theoretical knowledge into a concrete, real object. This is the **design, engineering, manufacturing, and construction** phase.
+    * **Example in product design:** Sketching, prototyping, CAD modeling, fabricating parts, assembling the product. The activity of designing and building the hammer results in a hammer. The end is outside the action. This is the direct realization.
+
+3.  **Praxis (πρᾶξις):**
+    * **Meaning:** Action, doing, practice. It's activity whose **end is within the activity itself**, or in the doing of it. It's about how to act wisely and justly in specific situations, guided by practical reason (phronesis). It involves moral, political, and ethical action.
+    * **Connection to "Real World Application/Use":** While not directly about *making* the product, *praxis* comes into play when the **product is used, applied, or integrated into human activity and the world**. It's about the interaction with the real thing, its ethical implications, its societal impact, and how it informs future designs.
+    * **Example in product design:** How users *actually use* the product, the ethical considerations of its creation and use, the impact it has on society, the practical wisdom applied in designing for specific user contexts. A designer's *praxis* might involve the ethical choices they make in their design process, or how the finished product facilitates (or hinders) a user's activity. The hammer's *praxis* is in the act of hammering for a purpose.
+
+**How they flow together for a product:**
+
+You can imagine them as a progression:
+
+* **Theoria:** You *understand* the principles of gravity, aerodynamics, material strength, and human needs for transport. You have the *idea* of flight.
+* **Poiesis:** You *make* the airplane, applying those theoretical principles, designing, engineering, and manufacturing it. The airplane *becomes real*.
+* **Praxis:** The airplane is *flown*, interacting with pilots, passengers, and the environment. Its use has practical implications, and the experience of flying (the *doing*) can inform further theoretical understanding and future making.
+
+So, yes, these concepts offer a powerful framework for understanding different dimensions of the process of bringing an idea or thought into concrete existence, whether it's a physical product, a system, or even a way of life.
+
+## Sammanfattning
+Här säger alltså Gemini att 'praxis' snarast handlar om ngt praktiskt användande av en produkt. Jag trodde att praxis var steget mellan theoria o poiesis, alltså att put theory into practice, into use via a product. Planering osv. Men det verkar inte vara så utan istället är praxis knutet t phronesis.
+Och man kan nog se det som recursive. Att theoria, poiseis o praxis sker när man börjar planera en implementation, sedan sker den på högre nivå, när man built something o put to use o experiences.
+
+## Om prototype
+Från här: https://uspeakgreek.com/technology/prototype-greek-origins-to-modern-design-models/
+Definition: A prototype is an early sample, model, or release of a product built to test a concept or process. It serves as a typical example or an original model from which other forms are developed or copied. In product development, prototypes are used to evaluate a new design, enhance precision by system analysts and users, and are considered a key step in the design process.
+Etymology and Origin:
+The word “prototype” comes from the Greek “prototypon,” which is a compound of “protos,” meaning “first,” and “typos,” meaning “impression,” “model,” or “type.” So, it literally translates to “first model” or “original form.”
+The use of the term in English dates back to the early 16th century. Initially, it was primarily used in the context of theology to refer to the first or primitive form of something.
+Over time, its usage expanded beyond theological contexts to include the first or preliminary model of any newly designed object or concept, particularly in engineering, design, and computer science.
