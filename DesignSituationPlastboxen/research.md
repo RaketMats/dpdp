@@ -353,3 +353,36 @@ Etymology and Origin:
 The word “prototype” comes from the Greek “prototypon,” which is a compound of “protos,” meaning “first,” and “typos,” meaning “impression,” “model,” or “type.” So, it literally translates to “first model” or “original form.”
 The use of the term in English dates back to the early 16th century. Initially, it was primarily used in the context of theology to refer to the first or primitive form of something.
 Over time, its usage expanded beyond theological contexts to include the first or preliminary model of any newly designed object or concept, particularly in engineering, design, and computer science.
+
+## Question
+Gemini: in greek philosophy, what were the terms for planning to do thing, i.e. going from theoria to poiesis
+
+## Answer
+You're looking for the crucial steps and concepts that bridge the theoretical understanding (**theoria**) with the actual production or making (**poiesis**) in Aristotle's framework. This journey falls under the umbrella of what he called **practical reason**.
+
+Here are the key Greek terms and concepts that describe the process of planning and getting ready to "make" something:
+
+1.  **Bouleusis (βούλευσις) - Deliberation / Deliberative Reasoning:**
+    * **Meaning:** This is the primary term for the **process of rational inquiry and calculation about the means to achieve a specific end**. It's the "thinking through" of how to bring something about. Aristotle emphasizes that we deliberate about things that are *in our power to do* and about which there is *some uncertainty* (i.e., not things that are necessary or impossible).
+    * **How it connects Theoria to Poiesis:** You have a theoretical understanding of *what* you want to make (the end, from theoria) and perhaps *why* it's good. Deliberation is the process of figuring out *how* to make it, the steps, the materials, the sequence. It's working backward from the desired end to the first step you can take.
+    * **Example for a hammer:** The idea (theoria) is "I want to make a tool for pounding nails." The deliberation (bouleusis) involves thinking: "To make a tool for pounding nails, I need a heavy head and a handle. The head should be metal, the handle wood. I need to shape the metal this way, attach the wood this way, etc."
+
+2.  **Prohairesis (προαίρεσις) - Deliberate Choice / Rational Choice / Purposive Choice:**
+    * **Meaning:** This is the **outcome of deliberation**. It's the decision to act based on the deliberative process. It's a "desiderative intellect" or "intellectual desire," meaning it's a desire that has been shaped and guided by reason. It's the internal commitment to pursue a particular course of action, having considered the alternatives.
+    * **How it connects:** Once you've deliberated (bouleusis) and figured out the best means, you then make a deliberate choice (prohairesis) to proceed with that plan. This choice is what directly leads to the *initiation* of the making (poiesis).
+    * **Example for a hammer:** After deliberating about materials and methods, you make the prohairesis to "forge the metal head and then attach a wooden handle of this specific type."
+
+3.  **Phronesis (φρόνησις) - Practical Wisdom / Prudence:**
+    * **Meaning:** This is an **intellectual virtue** that encompasses the ability to deliberate well about what is good for human beings in general, and how to achieve those goods in specific, concrete situations. It's the excellence of practical reason. While it applies more broadly to ethical and political action (praxis), it is also crucial for *poiesis*.
+    * **How it connects:** A skilled artisan or designer relies on phronesis to make good decisions during the planning (bouleusis) and execution (poiesis) phases. It's what allows them to judge the right materials, the right techniques, the right balance between different considerations (cost, aesthetics, function), and adapt the plan when unexpected challenges arise. It's the "know-how" that goes beyond mere theoretical knowledge. You could have the *theoria* of engineering, but *phronesis* helps you apply it wisely to a specific design challenge.
+
+4.  **Technē (τέχνη) - Art / Craft / Skill:**
+    * **Meaning:** This refers to a **productive intellectual virtue**; it's a kind of knowledge or skill concerned with **making (poiesis)**. It's about knowing *how* to make something, possessing the expertise and principles required for a specific craft or art.
+    * **How it connects:** While *theoria* might provide the abstract scientific principles, and *bouleusis* the specific plan, *technē* is the cultivated ability and systematic knowledge that allows one to actually execute the *poiesis*. It's the practical, rule-governed knowledge of production.
+    * **Example for a hammer:** The blacksmith's *technē* is their skill in forging, shaping, and tempering metal to create a functional hammer according to the plan.
+
+In summary, when going from **theoria** (the idea, the understanding of principles) to **poiesis** (the act of making the real thing), the process typically involves:
+
+* **Bouleusis:** The rational deliberation about the means to achieve the desired end.
+* **Prohairesis:** The deliberate choice to pursue those means.
+* These activities are guided and informed by **Phronesis** (practical wisdom) and actualized through **Technē** (the specific craft or skill of making).
