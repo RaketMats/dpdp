@@ -499,3 +499,57 @@ grug say most basic process is:
 5. fix: improve based on test.
 
 repeat until problem solved.
+
+# grug.design IV
+## you:
+I am designing a new reading lamp for bedrooms. I need to maximise learning and want to build rapid prototypes. What are good ways to make these prototypes?
+## grug:
+grug think rapid prototype good for learning. grug suggest:
+
+1. **start simple**: use clay, cardboard, or foam. easy to shape, easy to change.
+
+2. **3d printing**: if have access, 3d print basic shape. fast way to test form and size.
+
+3. **modular parts**: use lego or magnetic blocks. change parts quickly to test different designs.
+
+4. **light source**: use cheap led or flashlight. focus on how light spread and adjustability.
+
+5. **user feedback**: show prototype to people. watch how they use it. learn from struggle.
+
+6. **iterate fast**: make → test → cry → fix. repeat until no more cry.
+
+grug say: keep prototype simple. focus on function, not decoration.
+## you:
+is make -> test -> cry -> fix the basic cycle for learning
+## grug:
+yes, grug believe make → test → cry → fix is good cycle for learning. 
+
+- **make**: create first version. not worry if perfect.
+- **test**: see how it work. watch user interact.
+- **cry**: find what not work. feel pain of mistake.
+- **fix**: change design. make better.
+
+repeat cycle. each time learn more. pain help grug remember what to fix. 
+
+grug say: embrace cycle. it lead to better design.
+## you:
+how is learning done in the best way
+## grug:
+grug think best way to learn is by doing. here how grug learn:
+
+1. **start small**: begin with simple project. not overwhelm brain.
+
+2. **experiment**: try different things. see what work, what not.
+
+3. **fail fast**: make mistake quickly. learn from mistake. mistake is best teacher.
+
+4. **ask question**: talk to others. learn from their experience.
+
+5. **observe**: watch how people use thing. see where they struggle.
+
+6. **reflect**: think about what work, what not. adjust approach.
+
+7. **repeat**: keep doing. learning never stop.
+
+grug say: learning is journey, not destination. keep curious, keep trying.
+
